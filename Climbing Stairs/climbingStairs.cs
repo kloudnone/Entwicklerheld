@@ -1,0 +1,33 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using Microsoft.VisualBasic;
+
+namespace ClimbingStairsImplementation
+{
+    public static class ClimbingStairs
+    {
+        public static int CalculateClimbingStairs(int n) {
+            if (n < 0) {
+                return 0;
+            }
+            
+            if (n <= 2) {
+                return n;
+            } 
+                
+            int a = 0;
+            int b = 1;
+            int c = 2;
+                
+            while (n > 2){
+                a = b;
+                b = c;
+                c = a + b;
+                n = n - 1;  
+            }
+            
+            return c;
+        }
+    }
+}
