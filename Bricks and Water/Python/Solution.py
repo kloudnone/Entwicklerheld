@@ -1,21 +1,13 @@
 class BricksAndWaterPython:
 
     def how_much_water(bricks_array: list) -> int:
-
-        result = 0
-        bricksCount = len(bricks_array)
-
-        for i in range(1, bricksCount - 1):
-            leftBrickHeight = bricks_array[i]
-
-            for j in range(i):
-                leftBrickHeight = max(leftBrickHeight, bricks_array[j])
-
-            rightBrickHeight = bricks_array[i]
-
-            for j in range(i + 1, bricksCount):
-                rightBrickHeight = max(rightBrickHeight, bricks_array[j])
-
-            result = result + (min(leftBrickHeight, rightBrickHeight) - bricks_array[i])
-
-        return result
+        res = 0
+        for a in range(len(bricks_array)):
+            for b in range(a, len(bricks_array)):
+                for c in range(a, b):
+                    if (bricks_array[a] > bricks_array[c] and bricks_array[b] > bricks_array[c]):
+                        minValue = min(bricks_array[a], bricks_array[b])
+                        res +=  minValue - bricks_array[c]
+                        bricks_array[c] = minValue 
+    
+        return res;
