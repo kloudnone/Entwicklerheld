@@ -23,6 +23,7 @@ This repository consists of solutions to Entwicklerheld.
 | Fibonacci Numbers | 50 | 350 | [Challenge](https://platform.entwicklerheld.de/challenge/fibonacci-numbers?technology=python) | [Solution](/Fibonacci%20Numbers/) |
 | Fizz Buzz without 'if' | 250 | 350 | [Challenge](https://platform.entwicklerheld.de/challenge/fizz-buzz-without-if?technology=python) | [Solution](/Fizz%20Buzz%20without%20'if'/) |
 | FizzBuzz | 50 | 350 | [Challenge](https://platform.entwicklerheld.de/challenge/fizzbuzz?technology=python) | [Solution](/FizzBuzz/) |
+| FizzBuzz (ABAP) | 250 | 350 | [Challenge](https://platform.entwicklerheld.de/challenge/fizzbuzz-abap?technology=abap) | [Solution](/FizzBuzz%20(ABAP)/) |
 | Flights in Europe | 250 | 350 | [Challenge](https://platform.entwicklerheld.de/challenge/flights-in-europe?technology=java) | [Solution](/Flights%20in%20Europe/) |
 | Fun with Python 3.8 | 100 | 350 | [Challenge](https://platform.entwicklerheld.de/challenge/fun-with-python-38?technology=python) | [Solution](/Fun%20with%20Python%203.8/) |
 | Jumping Kangaroos | 200 | 350 | [Challenge](https://platform.entwicklerheld.de/challenge/jumping-kangaroos?technology=cpp) | [Solution](/Jumping%20Kangaroos/) |
