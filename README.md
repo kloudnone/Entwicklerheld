@@ -16,6 +16,7 @@ This repository consists of solutions to Entwicklerheld.
 | Bricks and Water | 150 | 350 | [Challenge](https://platform.entwicklerheld.de/challenge/bricks-and-water?technology=python) | [Solution](/Bricks%20and%20Water/) |
 | Christmas Boxes | 200 | 350 | [Challenge](https://platform.entwicklerheld.de/challenge/christmas-boxes?technology=csharp) | [Solution](/Christmas%20Boxes/) |
 | Climbing Stairs | 75 | 350 | [Challenge](https://platform.entwicklerheld.de/challenge/climbing-stairs?technology=python) | [Solution](/Climbing%20Stairs/) |
+| Collatz Conjecture (3x+1) | 500 | 350 | [Challenge](https://platform.entwicklerheld.de/challenge/collatz-conjecture-3x1?technology=csharp) | [Solution](/Collatz%20Conjecture%20(3x%2B1)/) |
 | Cutting Palindromes | 100 | 350 | [Challenge](https://platform.entwicklerheld.de/challenge/cutting-palindromes?technology=python) | [Solution](/Cutting%20Palindromes/) |
 | Easter Challenge 2022 | 250 | 350 | [Challenge](https://platform.entwicklerheld.de/challenge/easter-challenge-2022?technology=java) | [Solution](/Easter%20Challenge%202022/) |
 | Easy Storage | 150 | 350 | [Challenge](https://platform.entwicklerheld.de/challenge/easy-storage?technology=java) | [Solution](/Easy%20Storage/) |
