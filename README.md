@@ -25,6 +25,7 @@ This repository consists of solutions to Entwicklerheld.
 | Fizz Buzz without 'if' | 250 | 350 | [Challenge](https://platform.entwicklerheld.de/challenge/fizz-buzz-without-if?technology=python) | [Solution](/Fizz%20Buzz%20without%20'if'/) |
 | FizzBuzz | 50 | 350 | [Challenge](https://platform.entwicklerheld.de/challenge/fizzbuzz?technology=python) | [Solution](/FizzBuzz/) |
 | FizzBuzz (ABAP) | 250 | 350 | [Challenge](https://platform.entwicklerheld.de/challenge/fizzbuzz-abap?technology=abap) | [Solution](/FizzBuzz%20(ABAP)/) |
+| Flatten Arrays | 1000 | 300 | [Challenge](https://platform.entwicklerheld.de/challenge/flatten-arrays?technology=python) | [Solution](/Flatten%20Arrays/) |
 | Flights in Europe | 250 | 350 | [Challenge](https://platform.entwicklerheld.de/challenge/flights-in-europe?technology=java) | [Solution](/Flights%20in%20Europe/) |
 | Fun with Python 3.8 | 100 | 350 | [Challenge](https://platform.entwicklerheld.de/challenge/fun-with-python-38?technology=python) | [Solution](/Fun%20with%20Python%203.8/) |
 | Grains | 500 | 350 | [Challenge](https://platform.entwicklerheld.de/challenge/grains?technology=java) | [Solution](/Grains/) |
@@ -36,11 +37,13 @@ This repository consists of solutions to Entwicklerheld.
 | Pizza for my Friends Challenge | 250 | 350 | [Challenge](https://platform.entwicklerheld.de/challenge/pizza-for-my-friends-challenge?technology=javascript%2Breact) | [Solution](/Pizza%20for%20my%20Friends%20Challenge/) |
 | Prime Test | 1000 | 350 | [Challenge](https://platform.entwicklerheld.de/challenge/prime-test?technology=java) | [Solution](/Prime%20Test/) |
 | Queens Problem | 250 | 350 | [Challenge](https://platform.entwicklerheld.de/challenge/queens-problem?technology=java) | [Solution](/Queens%20Problem/) |
+| Run Length Encoding | 1000 | 300 | [Challenge](https://platform.entwicklerheld.de/challenge/run-length-encoding?technology=javascript) | [Solution](/Run%20Length%20Encoding/) |
 | Scary JavaScript | 100 | 350 | [Challenge](https://platform.entwicklerheld.de/challenge/scary-javascript?technology=javascript) | [Solution](/Scary%20JavaScript/) |
 | Scary Python | 100 | 350 | [Challenge](https://platform.entwicklerheld.de/challenge/scary-python?technology=python) | [Solution](/Scary%20Python/) |
 | State Machine | 1000 | 350 | [Challenge](https://platform.entwicklerheld.de/challenge/state-machine?technology=java) | [Solution](/State%20Machine/) |
 | TreeD | 1000 | 350 | [Challenge](https://platform.entwicklerheld.de/challenge/treed?technology=java) | [Solution](/TreeD/) |
 | TV Channel | 500 | 350 | [Challenge](https://platform.entwicklerheld.de/challenge/tv-channel?technology=javascript) | [Solution](/TV%20Channel/) |
+| Type of Triangle | 250 | 350 | [Challenge](https://platform.entwicklerheld.de/challenge/type-of-triangle?technology=python) | [Solution](/Type%20of%20Triangle/) |
 | Weigh the Slow Loris | 150 | 350 | [Challenge](https://platform.entwicklerheld.de/challenge/weigh-the-slow-loris?technology=java) | [Solution](/Weigh%20the%20Slow%20Loris/) |
 | Weigh the Slow Loris (Hard Mode) | 250 | 350 | [Challenge](https://platform.entwicklerheld.de/challenge/weigh-the-slow-loris-hard-mode?technology=java) | [Solution](//Weigh%20the%20Slow%20Loris%20(Hard%20Mode)/) |
 | You describe it, we build it | 250 | 350 | [Challenge](https://platform.entwicklerheld.de/challenge/you-describe-it-we-build-it?technology=dockerfile) | [Solution](/You%20describe%20it%2C%20we%20build%20it/) |
