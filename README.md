@@ -38,6 +38,7 @@ This repository consists of solutions to Entwicklerheld.
 | Pizza for my Friends Challenge | 250 | 350 | [Challenge](https://platform.entwicklerheld.de/challenge/pizza-for-my-friends-challenge?technology=javascript%2Breact) | [Solution](/Pizza%20for%20my%20Friends%20Challenge/) |
 | Prime Test | 1000 | 350 | [Challenge](https://platform.entwicklerheld.de/challenge/prime-test?technology=java) | [Solution](/Prime%20Test/) |
 | Queens Problem | 250 | 350 | [Challenge](https://platform.entwicklerheld.de/challenge/queens-problem?technology=java) | [Solution](/Queens%20Problem/) |
+| Rectangle Area | 250 | 350 | [Challenge](https://platform.entwicklerheld.de/challenge/rectangle-area?technology=python) | [Solution](/Rectangle%20Area/ |
 | Run Length Encoding | 1000 | 300 | [Challenge](https://platform.entwicklerheld.de/challenge/run-length-encoding?technology=javascript) | [Solution](/Run%20Length%20Encoding/) |
 | Scary JavaScript | 100 | 350 | [Challenge](https://platform.entwicklerheld.de/challenge/scary-javascript?technology=javascript) | [Solution](/Scary%20JavaScript/) |
 | Scary Python | 100 | 350 | [Challenge](https://platform.entwicklerheld.de/challenge/scary-python?technology=python) | [Solution](/Scary%20Python/) |
