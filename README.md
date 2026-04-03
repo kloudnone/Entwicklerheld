@@ -2,8 +2,8 @@
 
 This repository consists of solutions to Entwicklerheld.
 
-[![GitHub last commit](https://img.shields.io/github/last-commit/hypntc/Entwicklerheld)](https://github.com/hypntc/Entwicklerheld/commits/main)
-[![GitHub repo size](https://img.shields.io/github/repo-size/hypntc/Entwicklerheld)](https://github.com/hypntc/Entwicklerheld/archive/main.zip)
+[![GitHub last commit](https://img.shields.io/github/last-commit/kloudnone/Entwicklerheld)](https://github.com/kloudnone/Entwicklerheld/commits/main)
+[![GitHub repo size](https://img.shields.io/github/repo-size/kloudnone/Entwicklerheld)](https://github.com/kloudnone/Entwicklerheld/archive/main.zip)
 
 ## Personal Entwicklerheld Profile
 
@@ -14,6 +14,7 @@ This repository consists of solutions to Entwicklerheld.
 | Anagram | 50 | 350 | [Challenge](https://platform.entwicklerheld.de/challenge/anagram?technology=python) | [Solution](/Anagram/) |
 | Binary Tree | 1000 | 350 | [Challenge](https://platform.entwicklerheld.de/challenge/binary-tree?technology=javascript) | [Solution](/Binary%20Tree/) |
 | Bricks and Water | 150 | 350 | [Challenge](https://platform.entwicklerheld.de/challenge/bricks-and-water?technology=python) | [Solution](/Bricks%20and%20Water/) |
+| Bunny Phrase Generator | 500 | 350 | [Challenge](https://platform.entwicklerheld.de/challenge/bunny-phrase-generator?technology=python) | [Solution](/Bunny%20Phrase%20Generator/) |
 | Christmas Boxes | 200 | 350 | [Challenge](https://platform.entwicklerheld.de/challenge/christmas-boxes?technology=csharp) | [Solution](/Christmas%20Boxes/) |
 | Climbing Stairs | 75 | 350 | [Challenge](https://platform.entwicklerheld.de/challenge/climbing-stairs?technology=python) | [Solution](/Climbing%20Stairs/) |
 | Collatz Conjecture (3x+1) | 500 | 350 | [Challenge](https://platform.entwicklerheld.de/challenge/collatz-conjecture-3x1?technology=csharp) | [Solution](/Collatz%20Conjecture%20(3x%2B1)/) |
@@ -30,15 +31,17 @@ This repository consists of solutions to Entwicklerheld.
 | Fun with Python 3.8 | 100 | 350 | [Challenge](https://platform.entwicklerheld.de/challenge/fun-with-python-38?technology=python) | [Solution](/Fun%20with%20Python%203.8/) |
 | Grains | 500 | 350 | [Challenge](https://platform.entwicklerheld.de/challenge/grains?technology=java) | [Solution](/Grains/) |
 | Leap | 250 | 350 | [Challenge](https://platform.entwicklerheld.de/challenge/leap?technology=java) | [Solution](/Leap/) |
+| Lucky Friday | 500 | 350 | [Challenge](https://platform.entwicklerheld.de/challenge/lucky-fridays?technology=python) | [Solution](/Lucky%20Friday/) |
 | Jumping Kangaroos | 200 | 350 | [Challenge](https://platform.entwicklerheld.de/challenge/jumping-kangaroos?technology=cpp) | [Solution](/Jumping%20Kangaroos/) |
 | Mails to Santa | 250 | 350 | [Challenge](https://platform.entwicklerheld.de/challenge/mails-to-santa?technology=python) | [Solution](/Mails%20to%20Santa/) |
 | Make the world a better place | 250 | 450 | [Challenge](https://platform.entwicklerheld.de/challenge/make-the-world-a-better-place?technology=java) | [Solution](/Make%20the%20world%20a%20better%20place/) |
+| Number Funnel | 500 | 350 | [Challenge](https://platform.entwicklerheld.de/challenge/number-funnel?technology=python) | [Solution](/Number%20Funnel/) |
 | Pascal's Triangle | 150 | 350 | [Challenge](https://platform.entwicklerheld.de/challenge/pascals-triangle?technology=python) | [Solution](/Pascal's%20Triangle/) |
 | Personal Data Safety | 1000 | 350 | [Challenge](https://platform.entwicklerheld.de/challenge/personal-data-safety?technology=php) | [Solution](/Personal%20Data%20Safety/) |
 | Pizza for my Friends Challenge | 250 | 350 | [Challenge](https://platform.entwicklerheld.de/challenge/pizza-for-my-friends-challenge?technology=javascript%2Breact) | [Solution](/Pizza%20for%20my%20Friends%20Challenge/) |
 | Prime Test | 1000 | 350 | [Challenge](https://platform.entwicklerheld.de/challenge/prime-test?technology=java) | [Solution](/Prime%20Test/) |
 | Queens Problem | 250 | 350 | [Challenge](https://platform.entwicklerheld.de/challenge/queens-problem?technology=java) | [Solution](/Queens%20Problem/) |
-| Rectangle Area | 250 | 350 | [Challenge](https://platform.entwicklerheld.de/challenge/rectangle-area?technology=python) | [Solution](/Rectangle%20Area/ |
+| Rectangle Area | 250 | 350 | [Challenge](https://platform.entwicklerheld.de/challenge/rectangle-area?technology=python) | [Solution](/Rectangle%20Area/) |
 | Run Length Encoding | 1000 | 300 | [Challenge](https://platform.entwicklerheld.de/challenge/run-length-encoding?technology=javascript) | [Solution](/Run%20Length%20Encoding/) |
 | Scary JavaScript | 100 | 350 | [Challenge](https://platform.entwicklerheld.de/challenge/scary-javascript?technology=javascript) | [Solution](/Scary%20JavaScript/) |
 | Scary Python | 100 | 350 | [Challenge](https://platform.entwicklerheld.de/challenge/scary-python?technology=python) | [Solution](/Scary%20Python/) |
